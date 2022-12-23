@@ -1,0 +1,4 @@
+https://github.com/tomnomnom/assetfinder
+https://github.com/OWASP/Amass/
+https://github.com/tomnomnom/httprobe
+https://github.com/sensepost/gowitness
